@@ -147,7 +147,7 @@
    {
       "Name": "Bleacher Report",
       "Handle": "@i",
-      "Link": "https://twitter.com/i/status/1248807248974893058"
+      "Link": "https://twitter.com/i"
    },
    {
       "Name": "Amazon Prime Video Sport",
@@ -223,5 +223,190 @@
       "Name": "Tradewinds CEO",
       "Handle": "@CEO_UKTwinds",
       "Link": "https://twitter.com/CEO_UKTwinds"
+   },
+   {
+      "Name": "The Wall Street Journal",
+      "Handle": "@WSJ",
+      "Link": "https://twitter.com/WSJ"
+   },
+   {
+      "Name": "Sports Brief",
+      "Handle": "@sportsbriefcom",
+      "Link": "https://twitter.com/sportsbriefcom"
+   },
+   {
+      "Name": "#JoySports",
+      "Handle": "@JoySportsGH",
+      "Link": "https://twitter.com/JoySportsGH"
+   },
+   {
+      "Name": "Football on BT Sport",
+      "Handle": "@btsportfootball",
+      "Link": "https://twitter.com/btsportfootball"
+   },
+   {
+      "Name": "Spectrum SportsNet",
+      "Handle": "@SpectrumSN",
+      "Link": "https://twitter.com/SpectrumSN"
+   },
+   {
+      "Name": "The Premier Volleyball League (PVL)",
+      "Handle": "@PVLph",
+      "Link": "https://twitter.com/PVLph"
+   },
+   {
+      "Name": "Sport360Football",
+      "Handle": "@Sport360Foot",
+      "Link": "https://twitter.com/Sport360Foot"
+   },
+   {
+      "Name": "Optus Sport",
+      "Handle": "@OptusSport",
+      "Link": "https://twitter.com/OptusSport"
+   },
+   {
+      "Name": "Katherine Deves ",
+      "Handle": "@deves_katherine",
+      "Link": "https://twitter.com/deves_katherine"
+   },
+   {
+      "Name": "Sky Sports F1",
+      "Handle": "@SkySportsF1",
+      "Link": "https://twitter.com/SkySportsF1"
+   },
+   {
+      "Name": "Wide World of Sports",
+      "Handle": "@wwos",
+      "Link": "https://twitter.com/wwos"
+   },
+   {
+      "Name": "BBC Sport Lancashire",
+      "Handle": "@BBCLancsSport",
+      "Link": "https://twitter.com/BBCLancsSport"
+   },
+   {
+      "Name": "xEP Network | Sports Betting Algorithms",
+      "Handle": "@xEP_Network",
+      "Link": "https://twitter.com/xEP_Network"
+   },
+   {
+      "Name": "TOI Sports News",
+      "Handle": "@TOISportsNews",
+      "Link": "https://twitter.com/TOISportsNews"
+   },
+   {
+      "Name": "One Sports",
+      "Handle": "@OneSportsPHL",
+      "Link": "https://twitter.com/OneSportsPHL"
+   },
+   {
+      "Name": "Dan Can",
+      "Handle": "@dannnsolero",
+      "Link": "https://twitter.com/dannnsolero"
+   },
+   {
+      "Name": "Dénes Törteli ",
+      "Handle": "@DenesTorteli",
+      "Link": "https://twitter.com/DenesTorteli"
+   },
+   {
+      "Name": "MailOnline Sport",
+      "Handle": "@MailSport",
+      "Link": "https://twitter.com/MailSport"
+   },
+   {
+      "Name": "NBL",
+      "Handle": "@NBL",
+      "Link": "https://twitter.com/NBL"
+   },
+   {
+      "Name": "GTV SPORTS+",
+      "Handle": "@mygtvsports",
+      "Link": "https://twitter.com/mygtvsports"
+   },
+   {
+      "Name": "Beth Fisher",
+      "Handle": "@BethFisherSport",
+      "Link": "https://twitter.com/BethFisherSport"
+   },
+   {
+      "Name": "Ukraine Territorial Defense Forces",
+      "Handle": "@TDF_UA",
+      "Link": "https://twitter.com/TDF_UA"
+   },
+   {
+      "Name": "Guardian sport",
+      "Handle": "@guardian_sport",
+      "Link": "https://twitter.com/guardian_sport"
+   },
+   {
+      "Name": "British Miss ",
+      "Handle": "@PennyBritish",
+      "Link": "https://twitter.com/PennyBritish"
+   },
+   {
+      "Name": "500 ",
+      "Handle": "@Kameron_Hay",
+      "Link": "https://twitter.com/Kameron_Hay"
+   },
+   {
+      "Name": "Independent.ie",
+      "Handle": "@Independent_ie",
+      "Link": "https://twitter.com/Independent_ie"
+   },
+   {
+      "Name": "Rosalind Koramah Amoh",
+      "Handle": "@AmohKoramah",
+      "Link": "https://twitter.com/AmohKoramah"
+   },
+   {
+      "Name": "Bally Sports Indiana",
+      "Handle": "@BallySportsIN",
+      "Link": "https://twitter.com/BallySportsIN"
+   },
+   {
+      "Name": "Playbook Sports",
+      "Handle": "@PlaybookSN",
+      "Link": "https://twitter.com/PlaybookSN"
+   },
+   {
+      "Name": "SuperSport ",
+      "Handle": "@SuperSportTV",
+      "Link": "https://twitter.com/SuperSportTV"
+   },
+   {
+      "Name": "Fox News",
+      "Handle": "@FoxNews",
+      "Link": "https://twitter.com/FoxNews"
+   },
+   {
+      "Name": "Sky Sports News",
+      "Handle": "@SkySportsNews",
+      "Link": "https://twitter.com/SkySportsNews"
+   },
+   {
+      "Name": "Ageas Federal",
+      "Handle": "@AgeasFederal",
+      "Link": "https://twitter.com/AgeasFederal"
+   },
+   {
+      "Name": "Toosii",
+      "Handle": "@toosii2x",
+      "Link": "https://twitter.com/toosii2x"
+   },
+   {
+      "Name": "Pulse Sports Nigeria",
+      "Handle": "@PulseSportsNG",
+      "Link": "https://twitter.com/PulseSportsNG"
+   },
+   {
+      "Name": "Verkhovna Rada of Ukraine - Ukrainian Parliament",
+      "Handle": "@ua_parliament",
+      "Link": "https://twitter.com/ua_parliament"
+   },
+   {
+      "Name": "Daily Record Sport",
+      "Handle": "@Record_Sport",
+      "Link": "https://twitter.com/Record_Sport"
    }
 ]
