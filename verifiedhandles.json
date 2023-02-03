@@ -1,4 +1,5 @@
-[
+VM4485:12 Console was cleared
+VM4485:31 [
    {
       "Name": "BPI",
       "Handle": "@TalktoBPI",
@@ -13,5 +14,100 @@
       "Name": "Llanesca T. Panti",
       "Handle": "@llanescajourno",
       "Link": "https://twitter.com/llanescajourno"
+   },
+   {
+      "Name": "Leigh-Anne Pinnock",
+      "Handle": "@LeighAnneMusic",
+      "Link": "https://twitter.com/LeighAnneMusic"
+   },
+   {
+      "Name": "Maya",
+      "Handle": "@mayaofficialph",
+      "Link": "https://twitter.com/mayaofficialph"
+   },
+   {
+      "Name": "PLDT Cares",
+      "Handle": "@PLDT_Cares",
+      "Link": "https://twitter.com/PLDT_Cares"
+   },
+   {
+      "Name": "UMIDIGI",
+      "Handle": "@umidigi",
+      "Link": "https://twitter.com/umidigi"
+   },
+   {
+      "Name": "SMARTCares",
+      "Handle": "@SMARTCares",
+      "Link": "https://twitter.com/SMARTCares"
+   },
+   {
+      "Name": "Presidential Communications Office",
+      "Handle": "@pcogovph",
+      "Link": "https://twitter.com/pcogovph"
+   },
+   {
+      "Name": "DZBB Super Radyo",
+      "Handle": "@dzbb",
+      "Link": "https://twitter.com/dzbb"
+   },
+   {
+      "Name": "Pop Base",
+      "Handle": "@PopBase",
+      "Link": "https://twitter.com/PopBase"
+   },
+   {
+      "Name": "GMA News",
+      "Handle": "@gmanews",
+      "Link": "https://twitter.com/gmanews"
+   },
+   {
+      "Name": "Ted Cordero",
+      "Handle": "@Ted_Cordero",
+      "Link": "https://twitter.com/Ted_Cordero"
+   },
+   {
+      "Name": "Globe Telecom",
+      "Handle": "@enjoyGLOBE",
+      "Link": "https://twitter.com/enjoyGLOBE"
+   },
+   {
+      "Name": "Ian Cruz",
+      "Handle": "@_iancruz",
+      "Link": "https://twitter.com/_iancruz"
+   },
+   {
+      "Name": "Pop Crave",
+      "Handle": "@PopCrave",
+      "Link": "https://twitter.com/PopCrave"
+   },
+   {
+      "Name": "Bebe Rexha",
+      "Handle": "@BebeRexha",
+      "Link": "https://twitter.com/BebeRexha"
+   },
+   {
+      "Name": "BMG | US",
+      "Handle": "@BMG_US",
+      "Link": "https://twitter.com/BMG_US"
+   },
+   {
+      "Name": "Jonas Brothers",
+      "Handle": "@jonasbrothers",
+      "Link": "https://twitter.com/jonasbrothers"
+   },
+   {
+      "Name": "kevin jonas",
+      "Handle": "@kevinjonas",
+      "Link": "https://twitter.com/kevinjonas"
+   },
+   {
+      "Name": "Nick Jonas",
+      "Handle": "@nickjonas",
+      "Link": "https://twitter.com/nickjonas"
+   },
+   {
+      "Name": "5SOS UPDATES! #5SOS5",
+      "Handle": "@Tha5SOSFamily",
+      "Link": "https://twitter.com/Tha5SOSFamily"
    }
 ]
