@@ -1,5 +1,18 @@
 [
-  {
-    'Name': 'John'
-  }
+   {
+      "Name": "BPI",
+      "Handle": "@TalktoBPI"
+   },
+   {
+      "Name": "CDN Digital",
+      "Handle": "@cebudailynews"
+   },
+   {
+      "Name": "Llanesca T. Panti",
+      "Handle": "@llanescajourno"
+   },
+   {
+      "Name": "CDN Digital",
+      "Handle": "@cebudailynews"
+   }
 ]
