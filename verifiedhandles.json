@@ -408,5 +408,40 @@
       "Name": "Daily Record Sport",
       "Handle": "@Record_Sport",
       "Link": "https://twitter.com/Record_Sport"
+   },
+   {
+      "Name": "Independent Sport",
+      "Handle": "@IndoSport",
+      "Link": "https://twitter.com/IndoSport"
+   },
+   {
+      "Name": "GiveMeSport",
+      "Handle": "@GiveMeSport",
+      "Link": "https://twitter.com/GiveMeSport"
+   },
+   {
+      "Name": "McNeil",
+      "Handle": "@Reflog_18",
+      "Link": "https://twitter.com/Reflog_18"
+   },
+   {
+      "Name": "Ian Doyle",
+      "Handle": "@IanDoyleSport",
+      "Link": "https://twitter.com/IanDoyleSport"
+   },
+   {
+      "Name": "centredevils.",
+      "Handle": "@centredevils",
+      "Link": "https://twitter.com/centredevils"
+   },
+   {
+      "Name": "Rafael Sánchez",
+      "Handle": "@RafaelOnTV",
+      "Link": "https://twitter.com/RafaelOnTV"
+   },
+   {
+      "Name": "ᵂⁱˡˡ ᴼˢᵖʳᵉᵃʸ • ウィル・オスプレイ",
+      "Handle": "@WillOspreay",
+      "Link": "https://twitter.com/WillOspreay"
    }
 ]
