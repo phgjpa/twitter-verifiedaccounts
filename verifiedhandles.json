@@ -1,4 +1,5 @@
-[
+VM1161:12 Console was cleared
+VM1161:31 [
    {
       "Name": "BPI",
       "Handle": "@TalktoBPI",
@@ -108,5 +109,120 @@
       "Name": "5SOS UPDATES! #5SOS5",
       "Handle": "@Tha5SOSFamily",
       "Link": "https://twitter.com/Tha5SOSFamily"
+   },
+   {
+      "Name": "Twitter Sports",
+      "Handle": "@TwitterSports",
+      "Link": "https://twitter.com/TwitterSports"
+   },
+   {
+      "Name": "BBC Sport",
+      "Handle": "@BBCSport",
+      "Link": "https://twitter.com/BBCSport"
+   },
+   {
+      "Name": "SportsCenter",
+      "Handle": "@SportsCenter",
+      "Link": "https://twitter.com/SportsCenter"
+   },
+   {
+      "Name": "Sky Sports Premier League",
+      "Handle": "@SkySportsPL",
+      "Link": "https://twitter.com/SkySportsPL"
+   },
+   {
+      "Name": "FOX Sports: NFL",
+      "Handle": "@NFLonFOX",
+      "Link": "https://twitter.com/NFLonFOX"
+   },
+   {
+      "Name": "Sky Sports Football",
+      "Handle": "@SkyFootball",
+      "Link": "https://twitter.com/SkyFootball"
+   },
+   {
+      "Name": "Ibukun Aluko",
+      "Handle": "@IbkSports",
+      "Link": "https://twitter.com/IbkSports"
+   },
+   {
+      "Name": "Bleacher Report",
+      "Handle": "@i",
+      "Link": "https://twitter.com/i/status/1248807248974893058"
+   },
+   {
+      "Name": "Amazon Prime Video Sport",
+      "Handle": "@primevideosport",
+      "Link": "https://twitter.com/primevideosport"
+   },
+   {
+      "Name": "Sport360°",
+      "Handle": "@Sport360",
+      "Link": "https://twitter.com/Sport360"
+   },
+   {
+      "Name": "Super 70s Sports",
+      "Handle": "@Super70sSports",
+      "Link": "https://twitter.com/Super70sSports"
+   },
+   {
+      "Name": "Keith Downie",
+      "Handle": "@SkySports_Keith",
+      "Link": "https://twitter.com/SkySports_Keith"
+   },
+   {
+      "Name": "News24",
+      "Handle": "@News24",
+      "Link": "https://twitter.com/News24"
+   },
+   {
+      "Name": "Boston Sports Gordo",
+      "Handle": "@BOSSportsGordo",
+      "Link": "https://twitter.com/BOSSportsGordo"
+   },
+   {
+      "Name": "#3Sports",
+      "Handle": "@3SportsGh",
+      "Link": "https://twitter.com/3SportsGh"
+   },
+   {
+      "Name": "MEP Vlad Gheorghe",
+      "Handle": "@VladDanGheorghe",
+      "Link": "https://twitter.com/VladDanGheorghe"
+   },
+   {
+      "Name": "XM_COM",
+      "Handle": "@XM_COM",
+      "Link": "https://twitter.com/XM_COM"
+   },
+   {
+      "Name": "Standard Sport",
+      "Handle": "@standardsport",
+      "Link": "https://twitter.com/standardsport"
+   },
+   {
+      "Name": "Footy Humour",
+      "Handle": "@FootyHumour",
+      "Link": "https://twitter.com/FootyHumour"
+   },
+   {
+      "Name": "EA SPORTS FIFA",
+      "Handle": "@EASPORTSFIFA",
+      "Link": "https://twitter.com/EASPORTSFIFA"
+   },
+   {
+      "Name": "Manchester United Women",
+      "Handle": "@ManUtdWomen",
+      "Link": "https://twitter.com/ManUtdWomen"
+   },
+   {
+      "Name": "talkSPORT",
+      "Handle": "@talkSPORT",
+      "Link": "https://twitter.com/talkSPORT"
+   },
+   {
+      "Name": "Tradewinds CEO",
+      "Handle": "@CEO_UKTwinds",
+      "Link": "https://twitter.com/CEO_UKTwinds"
    }
 ]
