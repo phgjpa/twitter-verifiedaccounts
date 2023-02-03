@@ -1,18 +1,22 @@
 [
    {
       "Name": "BPI",
-      "Handle": "@TalktoBPI"
+      "Handle": "@TalktoBPI",
+      "Link": "https://twitter.com/TalktoBPI"
    },
    {
       "Name": "CDN Digital",
-      "Handle": "@cebudailynews"
+      "Handle": "@cebudailynews",
+      "Link": "https://twitter.com/cebudailynews"
    },
    {
       "Name": "Llanesca T. Panti",
-      "Handle": "@llanescajourno"
+      "Handle": "@llanescajourno",
+      "Link": "https://twitter.com/llanescajourno"
    },
    {
       "Name": "CDN Digital",
-      "Handle": "@cebudailynews"
+      "Handle": "@cebudailynews",
+      "Link": "https://twitter.com/cebudailynews"
    }
 ]
